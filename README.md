@@ -52,3 +52,9 @@ git config core.worktree '../../'
 # diretamente no nosso homedir
 # ⚠ atenção! ⚠ arquivos atuais serão sobrescritos
 git reset --hard origin/master
+
+
+# Links Úteis
+
+### https://winget.run/
+### https://winstall.app
