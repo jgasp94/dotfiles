@@ -24,7 +24,6 @@ Microsoft.PowerShell
 Microsoft.NuGet
 7zip.7zip
 VideoLAN.VLC
-Mozilla.Firefox.DeveloperEdition
 Discord.Discord
 Docker.DockerDesktop
 Google.Drive
@@ -38,3 +37,4 @@ Hibbiki.Chromium
 OpenJS.NodeJS.LTS
 HeidiSQL.HeidiSQL
 SQLite.SQLite
+WhirlwindFX.SignalRgb
